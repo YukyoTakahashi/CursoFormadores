@@ -1,7 +1,12 @@
 p{
-    text-align: center;
+   text-align: center;
     color:green;
-    font-size: 20 px;
+    font-size: 50 px; 
 }
 body{    background-color:black;
+}
+h1{
+    text-align: justify;
+    color:green;
+    font-size: 30 px;
 }
