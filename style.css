@@ -8,4 +8,6 @@ body{
 }
 .text{
     text-align: justify;
+    font-size:50 px;
+    color:#5C8374;
 }
