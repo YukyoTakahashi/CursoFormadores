@@ -1,4 +1,4 @@
-title{
+#titulo{
     color:green;
    text-align: center;
     font-size: 50 px; 
@@ -7,6 +7,6 @@ body{    background-color:black;
     color:aliceblue;
     font-size: 30 px;
 }
-h1{
+.p{
     text-align: justify;
 }
