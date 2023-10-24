@@ -5,17 +5,7 @@ body{
     background-color:#040D12;
 }
 #title{
-    color:#93B1A6;
+    color:rgb(0,255,0);
    text-align: center;
     font-size: 50 px; 
 }
-<<<<<<< HEAD
-body{    background-color:black;
-    color:aliceblue;
-    font-size: 30 px;
-}
-p{
-=======
-.text{
->>>>>>> 5c8ff131925281c0806c7232a55fce4bad48c75e
-
