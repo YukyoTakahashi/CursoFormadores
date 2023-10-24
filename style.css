@@ -9,8 +9,13 @@ body{
    text-align: center;
     font-size: 50 px; 
 }
-.text{
-    text-align: justify;
-    font-size:20 px;
-    color:#5C8374;
+<<<<<<< HEAD
+body{    background-color:black;
+    color:aliceblue;
+    font-size: 30 px;
 }
+p{
+=======
+.text{
+>>>>>>> 5c8ff131925281c0806c7232a55fce4bad48c75e
+
