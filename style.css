@@ -9,3 +9,8 @@ body{
    text-align: center;
     font-size: 50 px; 
 }
+#img{
+    width:20px;
+    margin:100px;
+    heigth:50px;
+}
