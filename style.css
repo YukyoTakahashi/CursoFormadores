@@ -1,11 +1,13 @@
 head{
     color:#EDEDED;
 }
+
 body{   
+
     background-color:#EDEDED;
 }
 #title{
-    color:rgb(0,255,0);
+    color:#00ff0d;
    text-align: center;
     font-size: 50 px; 
 }
